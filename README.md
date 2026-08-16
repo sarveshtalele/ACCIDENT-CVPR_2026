@@ -12,16 +12,23 @@ is normally a supervised problem, solved with footage annotated at the same
 site. This repository holds the opposite attempt: three independent modules,
 no fine-tuning, no labelled real-world data, and only pre-trained weights.
 
+The maintained repository is
+[Amey-Thakur/ACCIDENT-CVPR-2026](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026),
+where issues and discussion are handled.
+
 <br>
 
+[Repository](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026) &nbsp;·&nbsp;
 [Preprint](https://arxiv.org/abs/2604.09685) &nbsp;·&nbsp;
 [Notebook](https://www.kaggle.com/code/ameythakur20/zero-shot-cctv-traffic-accident-understanding/) &nbsp;·&nbsp;
+[Write-up](https://amey-thakur.github.io/posts/2026-04-05-a-modular-zero-shot-pipeline-for-accident-detection-localization-and-classification/) &nbsp;·&nbsp;
 [Competition](https://kaggle.com/competitions/accident) &nbsp;·&nbsp;
 [Workshop](https://wad.vision/) &nbsp;·&nbsp;
-[Write-up](https://amey-thakur.github.io/posts/2026-04-05-a-modular-zero-shot-pipeline-for-accident-detection-localization-and-classification/)
+[Discussions](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026/discussions)
 
 <br>
 
+[![Repository](https://img.shields.io/badge/Repository-Amey--Thakur%2FACCIDENT--CVPR--2026-181717?logo=github&logoColor=white)](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026)
 [![Venue](https://img.shields.io/badge/Venue-ACCIDENT_%40_CVPR_2026-BF3989)](https://kaggle.com/competitions/accident)
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv%3A2604.09685-B31B1B)](https://arxiv.org/abs/2604.09685)
 [![Notebook](https://img.shields.io/badge/Notebook-Kaggle-20BEFF)](https://www.kaggle.com/code/ameythakur20/zero-shot-cctv-traffic-accident-understanding/)
@@ -379,8 +386,10 @@ competition. The CVPR style files under `paper/` and the arXiv style file under
 
 <div align="center">
 
+**[Repository](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026)** &nbsp;·&nbsp;
 **[Preprint](https://arxiv.org/abs/2604.09685)** &nbsp;·&nbsp;
 **[Notebook](https://www.kaggle.com/code/ameythakur20/zero-shot-cctv-traffic-accident-understanding/)** &nbsp;·&nbsp;
-**[Write-up](https://amey-thakur.github.io/posts/2026-04-05-a-modular-zero-shot-pipeline-for-accident-detection-localization-and-classification/)**
+**[Write-up](https://amey-thakur.github.io/posts/2026-04-05-a-modular-zero-shot-pipeline-for-accident-detection-localization-and-classification/)** &nbsp;·&nbsp;
+**[Discussions](https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026/discussions)**
 
 </div>
