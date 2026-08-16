@@ -42,6 +42,21 @@ where issues and discussion are handled.
 
 </div>
 
+<!-- AUTHORS -->
+<div align="center">
+
+  <a name="authors"></a>
+  ## Authors
+
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/sarveshtalele"><img src="https://github.com/sarveshtalele.png" width="150" height="150" alt="Sarvesh Talele"></a><br>[**Sarvesh Talele**](https://github.com/sarveshtalele)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0818--461X-A6CE39.svg)](https://orcid.org/0009-0002-0818-461X) |
+| :---: | :---: |
+
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Amey Thakur](https://github.com/Amey-Thakur)** for his meaningful contributions, guidance, and support that helped shape this work.*
+
 ---
 
 <br>
@@ -353,26 +368,6 @@ cd preprint && latexmk -pdf main.tex
 - Farnebäck, G. [Two-Frame Motion Estimation Based on Polynomial Expansion](https://doi.org/10.1007/3-540-45103-X_50). SCIA, 2003.
 - Dosovitskiy, A., et al. [CARLA: An Open Urban Driving Simulator](https://proceedings.mlr.press/v78/dosovitskiy17a.html). CoRL, 2017.
 - Teed, Z., and Deng, J. [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://doi.org/10.1007/978-3-030-58536-5_24). ECCV, 2020.
-
-<br>
-
-## Authors
-
-<div align="center">
-
-**Amey Thakur** &nbsp;·&nbsp; Independent Researcher, Toronto, Canada
-
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5644-1575)
-[![GitHub](https://img.shields.io/badge/GitHub-Amey--Thakur-181717?logo=github&logoColor=white)](https://github.com/Amey-Thakur)
-
-<br>
-
-**Sarvesh Talele** &nbsp;·&nbsp; Independent Researcher, Mumbai, India
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0818--461X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0818-461X)
-[![GitHub](https://img.shields.io/badge/GitHub-sarveshtalele-181717?logo=github&logoColor=white)](https://github.com/sarveshtalele)
-
-</div>
 
 <br>
 
